@@ -37,6 +37,9 @@ In this project, I've designed a trajectory generator for a quadrotor navigating
 
 Custom test maps were designed and solved using both Dijkstra and A* algorithms across different grid resolutions. The results visualization showcases the relationship between map resolution and the number of nodes expanded, offering insights into each algorithm's efficiency.
 
+![planned_path](https://github.com/Saibernard/Quadrotor-Trajectory-Generator-Using-Graph-Search-Algorithms/assets/112599512/5b5bc0c3-cd84-4f90-90a1-3af637e02c69)
+
+
 ---
 
 This project served as an insightful journey into the domain of path planning for autonomous drones, melding theoretical concepts with hands-on challenges, paving the way for advanced autonomous navigation solutions.
